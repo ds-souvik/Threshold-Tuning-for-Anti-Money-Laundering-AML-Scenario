@@ -1,12 +1,10 @@
 <div align="center">
 
-# Building Robust AML Models: Advanced Techniques for Effective Transaction Monitoring
+# [Building Robust AML Models: Advanced Techniques for Effective Transaction Monitoring](https://github.com/ds-souvik/Threshold-Tuning-for-Anti-Money-Laundering-AML-Scenario/blob/main/Building%20Robust%20AML%20Models%20Advanced%20Techniques%20for%20Effective%20Transaction%20Monitoring.pptx)
 
 </div>
 
---
-
-Welcome to the **Building Robust AML Models** repository! This project showcases a comprehensive approach to optimizing Anti-Money Laundering (AML) transaction monitoring for large value deposits. The repository is structured to provide valuable insights for technical recruiters, interviewers, and anyone interested in data science, finance, and AML compliance.
+Welcome to the **Building Robust AML Models** repository! This project showcases a comprehensive approach to optimizing Anti-Money Laundering (AML) transaction monitoring for the scenario: **Large Value Deposits.** The project describes the market standard tuning methodologies, explains the inefficiencies of these methodologies to tackle the generation of False Negatives (Not detecting all Suspicious alerts) and how the scenarios and tuning methodologies should be optimized for developing robust AML Compliance Models. The repository is structured to provide valuable insights for technical recruiters, interviewers, and anyone interested in data science, finance, and AML compliance.
 
 ## Explore the Project
 You can explore the project and its components in the following ways:
@@ -83,4 +81,41 @@ This project showcases a methodology that is widely used in the banking sector. 
 ## Conclusion
 This project demonstrates my expertise in developing and tuning AML models, both rule-based and machine learning-based. By leveraging advanced data analysis techniques, I have optimized transaction monitoring for large value deposits, ensuring high detection efficiency while minimizing operational costs. Different scenario designs, tuning methodologies, and metrics must be used and should be tailor-made according to each use case, bank product, etc. Additionally, building a good post-detection solution is crucial to further reduce false positives. I have the skillsets to achieve all this.
 
-## Repository Structure
+## How to Use
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/ds-souvik/Threshold-Tuning-for-Anti-Money-Laundering-AML-Scenario.git
+    cd Threshold-Tuning-for-Anti-Money-Laundering-AML-Scenario
+    ```
+
+2. **Set up the environment**:
+    - Ensure you have Python and Jupyter Notebook installed. You can use the following commands to set up a virtual environment:
+    ```sh
+    python -m venv aml_env
+    source aml_env/bin/activate  # On Windows use `aml_env\Scripts\activate`
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Jupyter Notebook**:
+    ```sh
+    jupyter notebook AML_Tuning.ipynb
+    ```
+
+4. **Generate Data Quality Reports**:
+    - Execute the `dq_report.py` script to generate data quality reports for the account and transaction datasets:
+    ```sh
+    python dq_report.py
+    ```
+
+5. **Explore the Output Files**:
+    - Review the generated data quality reports and threshold summary file in the `Output_files` directory.
+
+6. **Analyze and Visualize Results**:
+    - Follow the steps in the Jupyter Notebook to analyze and visualize the results of the parameter tuning and threshold evaluation metrics.
+
+7. **Review the Presentation**:
+    - Open `Building Robust AML Models Advanced Techniques for Effective Transaction Monitoring.pptx` to understand the project summary, methodology, and findings.
+
+8. **Customize and Extend**:
+    - Modify the scripts and notebook as needed to adapt the methodology to different AML scenarios or datasets.
