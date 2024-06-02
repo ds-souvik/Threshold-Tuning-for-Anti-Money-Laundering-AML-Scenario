@@ -16,10 +16,10 @@ You can explore the project and its components in the following ways:
 - [Key Steps and Methodology](#key-steps-and-methodology)
 - [Key Findings](#key-findings)
 - [Conclusion](#conclusion)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Skills and Expertise](#skills-and-expertise)
-- [Contact](#contact)
+- [How to use ](#how-to-Use)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Author](#author)
+- [Connect with Me](#connect-with-me)
 
 ## Overview
 In this project, I have applied advanced statistical techniques to optimize AML transaction monitoring for large value deposits. The objective was to develop a market-standard solution for the scenario: Large Value Deposits that enhances the detection of suspicious activities while minimizing false positives, reflecting the stringent compliance requirements of financial institutions.
@@ -119,3 +119,41 @@ This project demonstrates my expertise in developing and tuning AML models, both
 
 8. **Customize and Extend**:
     - Modify the scripts and notebook as needed to adapt the methodology to different AML scenarios or datasets.
+
+## Skills Demonstrated
+
+### Technical Skills:
+- **Data Analysis**: Proficient in using Python for data preprocessing, cleaning, and analysis. Implemented advanced statistical techniques to optimize AML transaction monitoring.
+- **AML Threshold Tuning and Statistical Analysis**: Applied various evaluation metrics including True Positive Rate (Recall), False Positive Rate, Precision, F1 Score, and Youden’s J Statistics to determine optimal thresholds.
+- **Data Quality Assessment**: Generated comprehensive Data Quality Reports to identify missing values, unique values, outliers, and skewness in the datasets.
+- **Data Visualization**: Created and visualized confusion matrices to compare the effectiveness of different thresholds on both training and test datasets.
+- **Programming**: Developed reusable scripts for data processing, threshold tuning, and evaluation. Proficient in Python, including libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
+- **Jupyter Notebooks**: Documented the entire analysis process, including data preprocessing, parameter tuning, and evaluation, in a clear and reproducible manner using Jupyter Notebooks.
+
+### Non-Technical Skills:
+- **Problem Solving**: Identified inefficiencies in market-standard AML tuning methodologies and developed optimized solutions tailored to specific AML scenarios.
+- **Attention to Detail**: Ensured accuracy in data analysis and model tuning by meticulously evaluating multiple metrics and thresholds.
+- **Communication**: Effectively documented and presented project findings, methodologies, and recommendations in a professional manner.
+- **Project Management**: Managed the project workflow, from data acquisition and preprocessing to model tuning and evaluation, ensuring timely completion and high-quality deliverables.
+- **Industry Knowledge**: Demonstrated understanding of AML compliance requirements and financial crime prevention strategies. Leveraged industry experience to develop robust AML models.
+- **Adaptability**: Showcased ability to quickly learn and implement new techniques and methodologies to improve AML transaction monitoring.
+
+## Author
+
+<div align="center">
+  <img target="_blank" src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Passport_Size_photo.JPG" width=140 height=160 alt="Souvik Ganguly">
+  <h2>Souvik Ganguly</h2>
+  <a href="https://www.linkedin.com/in/souvik-ganguly-4a9924105/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+**Connect with me**: If you would like to connect with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) or email me at [souvik.ganguly.ds@gmail.com](mailto:souvik.ganguly.ds@gmail.com).
+
+---
+
+<div align="center">
+  <strong>If you liked the project, consider putting a star?</strong>
+</div>
